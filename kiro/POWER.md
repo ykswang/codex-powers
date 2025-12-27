@@ -3,8 +3,7 @@ name: "codex"
 displayName: "OpenAI Codex CLI"
 description: "Use OpenAI Codex CLI as an MCP server, enabling AI agents to execute complex coding tasks, file operations, and shell commands"
 keywords: ["codex", "openai", "cli", "coding", "agent", "code generation", "automation"]
-author: "OpenAI"
-icon: "icon.png"
+author: "Closeli"
 ---
 
 # OpenAI Codex CLI Power
