@@ -9,21 +9,27 @@ A Kiro Power that enables AI agents to execute complex coding tasks using OpenAI
 - Shell command execution
 - Multi-turn conversations with conversation ID
 
+## Directory Structure
+
+```
+.
+├── README.md           # This file
+└── kiro/               # Kiro Power content
+    ├── POWER.md        # Power documentation
+    ├── mcp.json        # MCP server configuration
+    ├── codex.png       # Power icon
+    └── steering/       # Steering files
+        └── usage-rules.md
+```
+
 ## Installation
 
-### From GitHub
-
-1. Open Kiro IDE
-2. Go to Powers panel
-3. Click "Import from GitHub"
-4. Enter: `https://github.com/user/codex-power` (replace with your repo URL)
-
-### From Local Folder
+### From Local Folder (Recommended)
 
 1. Clone this repository
 2. Open Kiro IDE → Powers panel
 3. Click "Import from folder"
-4. Select the cloned directory
+4. Select the `kiro` subdirectory (not the root directory)
 
 ## Prerequisites
 
