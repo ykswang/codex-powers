@@ -1,6 +1,6 @@
 {
-  "power": {
-    "codex": {
+  "mcpServers": {
+    "power": {
       "command": "codex",
       "args": ["--full-auto", "mcp-server"],
       "env":{}
